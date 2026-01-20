@@ -9,9 +9,9 @@ A repository with the original BPS patches for the following ROM hacks:
 
 * Pokemon Pearl Version Trainer AI Patch Plus
 
-* Pokemon DP-level Platinum
+* Pokemon DP-level Platinum (Rev0 and Rev1)
 
-* Pokemon DP-level Platinum Plus
+* Pokemon DP-level Platinum Plus (Rev0 and Rev1)
 
 # Features
 
@@ -23,5 +23,5 @@ The base patch for Pl increases the Pokemon levels of the Rival, Elite Four and 
 
 # Credits
 
-* To the devs behind DSPRE and DSPRE Reloaded; I couldn't have done this without y'all.
-* To the Pokemon ROM Hacking Community, whose ROM hacks inspired me to make my own little hacks.
+* To the devs behind DSPRE and DSPRE Reloaded; I couldn't have done this without y'all, thanks a lot for the wonderful tools.
+* To the Pokemon ROM Hacking Community, whose ROM hacks inspired me to make my own little hacks, stay awesome.
